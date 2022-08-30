@@ -18,6 +18,6 @@ When I took in information for outcomes based on funding goals, I created a new 
 
 The largest percentage of successful campaigns were less than $1000 making that around 76%. An interesting point to be considered is the rise in success rates after a significant dip. At the $35,000 - $44,999 range we can see the success rate for campaigns rise above the 50% mark again. One of the limitations in the data that I found is that there is no research around marketing for any of the campaigns. This is a huge factor in what plays into the full funding of a campaign put on Kickstarter, because of this one could falsely assume that success and failure in funding is soley based on funding goals. 
 
-####Conclusion 
+#### Conclusion 
 
 Louise would have a good chance in having a succssful cammpaign for a future project if held in around May or June and with a funding goal of about $5,000 or less. Considerations should be made based on proper marketing and online followings. If the project has a large online following or a strong marketing team there could be some success in a larger funding goal. 
