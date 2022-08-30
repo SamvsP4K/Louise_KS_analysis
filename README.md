@@ -1,4 +1,4 @@
-## A Analysis of Play/Theater Kickstarter Campaigns 
+## An Analysis of Play/Theater Kickstarter Campaigns 
 
 This analysis was made to compare the theater and play category of Kickstarter campaigns and how different campaigns have done based on their launch dates and outcome goals. Louise is using this information for her future crowdfunding projects in this category. 
 
